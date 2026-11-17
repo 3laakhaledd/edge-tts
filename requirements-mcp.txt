@@ -1,0 +1,3 @@
+# Stable v1 FastMCP API; do not silently upgrade to v2.
+mcp==1.26.0
+uvicorn>=0.34,<1
